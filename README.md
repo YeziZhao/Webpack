@@ -1,0 +1,2 @@
+# Webpack
+master: basic config
